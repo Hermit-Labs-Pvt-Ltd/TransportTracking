@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/tanmay/TransportTracker/TransportTracking/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/home/tanmay/TransportTracker/transport-tracker/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
