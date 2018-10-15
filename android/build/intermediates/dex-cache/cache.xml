@@ -12,12 +12,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/jars/classes.jar"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="54933c89f90a872aa342004e82b23e776fe12736">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.4_c95485b44a3868f3172686c126cc684f3174634d.jar" />
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.4_ecd422aa94a379f15ea96fab0cd79d0d66024cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.4_e2d6bec111142823f41da58366994f5e06427286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.4_cdd28eecf5af5ccc1209c97ba25a50670207b2fd.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,24 +48,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_66b8ca63860d4389bea1289dc60f54f4dfc620b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.4_0ca8271f8bdadb6be7d9abe131c516db259e82c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -57,21 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.4/jars/classes.jar"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.4_5ffe529e5cf7d421362a3f2b76d8610a24acd177.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.4_370842b67cef9a7659d77cc5de32a2d3601e03fe.jar" />
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.4_41da0707d99944ce8043a16936e194b90e22ac68.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,21 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.4/jars/classes.jar"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.4_c094f834bca43032825a560a326565d60272b6a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.4_93db10f92923629d83300aa35a065c1410bf9215.jar" />
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.2.4_15e1276dd570d2a1a17a88f629f3b0d8f9ac14fe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -108,6 +90,15 @@
         revision="23.0.2"
         sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
         <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_91c781e29844a7472b72cd674daceabfec0c2d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_e6c4cb62cc0f5459bade73c9089826353e394376.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,12 +120,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_6c151c90d6f7a131aad54e8eb7209cb4af899a83.jar" />
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.4_afb2fb625adbd43bf421a31d0c25b3486c2b46ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.4_c06d9eac81e4bb05830e3272060aa228e171349c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_c15f69af661b31890c601b112d1c3eda54029e55.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,15 +156,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/tanmay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_19c131c5b71ab4fab70d951b32f386941608dc61.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -165,12 +165,228 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_ff108ee420fe4d1e0223702213079deb8f4dd7fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.4_0451d8467baeb59d5efd54ac45300132b8ea3617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.4_7c567ebb17a80579b51fa305cfff49bd8b998df4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_6a74ef4df80dfe9fd6191eeb4acd3c3409f39a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_59059a6cf39321b1a4899c820dbf422a64ed14ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_a3d8ba1a7e5593da1113ccadd86b8699bab10921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.4_c95485b44a3868f3172686c126cc684f3174634d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.4_4f45f4430a4e0e100982bd7b6309e3549a749881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_66b8ca63860d4389bea1289dc60f54f4dfc620b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.4_0ca8271f8bdadb6be7d9abe131c516db259e82c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.4_5ffe529e5cf7d421362a3f2b76d8610a24acd177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.2.4_370842b67cef9a7659d77cc5de32a2d3601e03fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_cd026c457d3903d13d3070d315e3b8ecc4302804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.4_4076a0edd3f06ce9eca1f650bda8fddb06d19898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_df1f9ba1f75cfc94f298ea02bb26d174e6a2cfed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.4_c094f834bca43032825a560a326565d60272b6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.4_88d29b20227de67bd1920e0e67ba351ec25f5b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_833e70a874f9d1053a00308c24a51d1d353d7f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.4_93db10f92923629d83300aa35a065c1410bf9215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_00031e8a7f64f5f3632e9f8369e9247d4c08d271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_6c151c90d6f7a131aad54e8eb7209cb4af899a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_19c131c5b71ab4fab70d951b32f386941608dc61.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
         <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.4_d38ae104e3189eb453085f35ddfd346acbd525a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.4_296fdfffe35d1967d426a58dace9e6ff7005f64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_22597ccc5ee00dc2b41f4c3b0c9b4b41bff93f68.jar" />
     </item>
     <item
         is-multidex="false"
@@ -198,15 +414,6 @@
         revision="23.0.2"
         sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
         <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.2.4_68737d60bb7977a3d343955d51f4f92cebc990b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
-        <dex dex="/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.2.4_0451d8467baeb59d5efd54ac45300132b8ea3617.jar" />
     </item>
     <item
         is-multidex="false"

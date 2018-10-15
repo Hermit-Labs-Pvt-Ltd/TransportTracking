@@ -2,5 +2,9 @@
     {
         "merged": "/home/tanmay/TransportTracker/transport-tracker/android/app/build/intermediates/res/merged/debug/menu/main_activity.xml",
         "source": "/home/tanmay/TransportTracker/transport-tracker/android/app/src/main/res/menu/main_activity.xml"
+    },
+    {
+        "merged": "/home/tanmay/TransportTracker/TransportTracking/android/app/build/intermediates/res/merged/debug/menu/main_activity.xml",
+        "source": "/home/tanmay/TransportTracker/TransportTracking/android/app/src/main/res/menu/main_activity.xml"
     }
 ]
