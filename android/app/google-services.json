@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "654265713335-eda8q68pgnk27ambjkkv8b4lstrvdspm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.transporttracker",
+            "certificate_hash": "a194a8f2dcc9a9b1d37999ec5ba266853c90bdcb"
+          }
+        },
+        {
           "client_id": "654265713335-8gu63ro3pkjnlrq5icjnvbqoh50erre6.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654265713335-8gu63ro3pkjnlrq5icjnvbqoh50erre6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

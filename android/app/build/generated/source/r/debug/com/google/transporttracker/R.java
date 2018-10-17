@@ -2789,13 +2789,14 @@ containing a value of this type.
         public static final int ok=0x7f070041;
         public static final int password=0x7f070042;
         public static final int prefs=0x7f070043;
-        public static final int start_tracking=0x7f070044;
-        public static final int status=0x7f070045;
+        public static final int project_id=0x7f070044;
+        public static final int start_tracking=0x7f070045;
+        public static final int status=0x7f070046;
         public static final int status_bar_notification_info_overflow=0x7f070024;
-        public static final int stop_tracking=0x7f070046;
-        public static final int title_activity_main=0x7f070047;
-        public static final int tracking=0x7f070048;
-        public static final int transport_id=0x7f070049;
+        public static final int stop_tracking=0x7f070047;
+        public static final int title_activity_main=0x7f070048;
+        public static final int tracking=0x7f070049;
+        public static final int transport_id=0x7f07004a;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0a0088;
